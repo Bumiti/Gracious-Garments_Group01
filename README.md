@@ -16,7 +16,7 @@ Project title: Gracious Garments
       Student1370242  Nguyễn Ngọc Minh
 ============================
 
-eProject documentation at https://github.com/Bumiti/Gracious-Garments_Group01
+eProject documentation at https://github.com/Bumiti/Gracious-Garments_Group01/tree/main/documentary
 
 ============================
 
