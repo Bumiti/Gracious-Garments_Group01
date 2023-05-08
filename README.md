@@ -14,6 +14,7 @@ Project title: Gracious Garments
       Student1370240  Bùi Minh Tín 
       Student1370244  Nguyễn Lý Hon  
       Student1370242  Nguyễn Ngọc Minh
+      Student1370237  Trần Văn Nhi
 ============================
 
 eProject documentation at https://github.com/Bumiti/Gracious-Garments_Group01/tree/main/documentary
